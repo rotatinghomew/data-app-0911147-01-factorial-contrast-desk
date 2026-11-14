@@ -1,0 +1,1277 @@
+{
+  "analysis_cutoff": "2026-11-01",
+  "classes": [
+    {
+      "class_id": "class-00",
+      "block": "campus-0",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-01",
+      "block": "campus-0",
+      "lecture": "recorded"
+    },
+    {
+      "class_id": "class-02",
+      "block": "campus-0",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-03",
+      "block": "campus-0",
+      "lecture": "recorded"
+    },
+    {
+      "class_id": "class-04",
+      "block": "campus-1",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-05",
+      "block": "campus-1",
+      "lecture": "recorded"
+    },
+    {
+      "class_id": "class-06",
+      "block": "campus-1",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-07",
+      "block": "campus-1",
+      "lecture": "recorded"
+    },
+    {
+      "class_id": "class-08",
+      "block": "campus-2",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-09",
+      "block": "campus-2",
+      "lecture": "recorded"
+    },
+    {
+      "class_id": "class-10",
+      "block": "campus-2",
+      "lecture": "seminar"
+    },
+    {
+      "class_id": "class-11",
+      "block": "campus-2",
+      "lecture": "recorded"
+    }
+  ],
+  "assignments": [
+    {
+      "learner": "class-00-00",
+      "class_id": "class-00",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-00-01",
+      "class_id": "class-00",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-00-02",
+      "class_id": "class-00",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-00-03",
+      "class_id": "class-00",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-00-04",
+      "class_id": "class-00",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-00-05",
+      "class_id": "class-00",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-00-06",
+      "class_id": "class-00",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-00-07",
+      "class_id": "class-00",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-00-08",
+      "class_id": "class-00",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-00-09",
+      "class_id": "class-00",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-01-00",
+      "class_id": "class-01",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-01-01",
+      "class_id": "class-01",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-01-02",
+      "class_id": "class-01",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-01-03",
+      "class_id": "class-01",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-01-04",
+      "class_id": "class-01",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-01-05",
+      "class_id": "class-01",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-01-06",
+      "class_id": "class-01",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-01-07",
+      "class_id": "class-01",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-01-08",
+      "class_id": "class-01",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-01-09",
+      "class_id": "class-01",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-02-00",
+      "class_id": "class-02",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-02-01",
+      "class_id": "class-02",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-02-02",
+      "class_id": "class-02",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-02-03",
+      "class_id": "class-02",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-02-04",
+      "class_id": "class-02",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-02-05",
+      "class_id": "class-02",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-02-06",
+      "class_id": "class-02",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-02-07",
+      "class_id": "class-02",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-02-08",
+      "class_id": "class-02",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-02-09",
+      "class_id": "class-02",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-03-00",
+      "class_id": "class-03",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-03-01",
+      "class_id": "class-03",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-03-02",
+      "class_id": "class-03",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-03-03",
+      "class_id": "class-03",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-03-04",
+      "class_id": "class-03",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-03-05",
+      "class_id": "class-03",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-03-06",
+      "class_id": "class-03",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-03-07",
+      "class_id": "class-03",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-03-08",
+      "class_id": "class-03",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-03-09",
+      "class_id": "class-03",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-04-00",
+      "class_id": "class-04",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-04-01",
+      "class_id": "class-04",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-04-02",
+      "class_id": "class-04",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-04-03",
+      "class_id": "class-04",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-04-04",
+      "class_id": "class-04",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-04-05",
+      "class_id": "class-04",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-04-06",
+      "class_id": "class-04",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-04-07",
+      "class_id": "class-04",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-04-08",
+      "class_id": "class-04",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-04-09",
+      "class_id": "class-04",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-05-00",
+      "class_id": "class-05",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-05-01",
+      "class_id": "class-05",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-05-02",
+      "class_id": "class-05",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-05-03",
+      "class_id": "class-05",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-05-04",
+      "class_id": "class-05",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-05-05",
+      "class_id": "class-05",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-05-06",
+      "class_id": "class-05",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-05-07",
+      "class_id": "class-05",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-05-08",
+      "class_id": "class-05",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-05-09",
+      "class_id": "class-05",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-06-00",
+      "class_id": "class-06",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-06-01",
+      "class_id": "class-06",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-06-02",
+      "class_id": "class-06",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-06-03",
+      "class_id": "class-06",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-06-04",
+      "class_id": "class-06",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-06-05",
+      "class_id": "class-06",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-06-06",
+      "class_id": "class-06",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-06-07",
+      "class_id": "class-06",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-06-08",
+      "class_id": "class-06",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-06-09",
+      "class_id": "class-06",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-07-00",
+      "class_id": "class-07",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-07-01",
+      "class_id": "class-07",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-07-02",
+      "class_id": "class-07",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-07-03",
+      "class_id": "class-07",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-07-04",
+      "class_id": "class-07",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-07-05",
+      "class_id": "class-07",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-07-06",
+      "class_id": "class-07",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-07-07",
+      "class_id": "class-07",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-07-08",
+      "class_id": "class-07",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-07-09",
+      "class_id": "class-07",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-08-00",
+      "class_id": "class-08",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-08-01",
+      "class_id": "class-08",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-08-02",
+      "class_id": "class-08",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-08-03",
+      "class_id": "class-08",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-08-04",
+      "class_id": "class-08",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-08-05",
+      "class_id": "class-08",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-08-06",
+      "class_id": "class-08",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-08-07",
+      "class_id": "class-08",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-08-08",
+      "class_id": "class-08",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-08-09",
+      "class_id": "class-08",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-09-00",
+      "class_id": "class-09",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-09-01",
+      "class_id": "class-09",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-09-02",
+      "class_id": "class-09",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-09-03",
+      "class_id": "class-09",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-09-04",
+      "class_id": "class-09",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-09-05",
+      "class_id": "class-09",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-09-06",
+      "class_id": "class-09",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-09-07",
+      "class_id": "class-09",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-09-08",
+      "class_id": "class-09",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-09-09",
+      "class_id": "class-09",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-10-00",
+      "class_id": "class-10",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-10-01",
+      "class_id": "class-10",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-10-02",
+      "class_id": "class-10",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-10-03",
+      "class_id": "class-10",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-10-04",
+      "class_id": "class-10",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-10-05",
+      "class_id": "class-10",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-10-06",
+      "class_id": "class-10",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-10-07",
+      "class_id": "class-10",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-10-08",
+      "class_id": "class-10",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-10-09",
+      "class_id": "class-10",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-11-00",
+      "class_id": "class-11",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-11-01",
+      "class_id": "class-11",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-11-02",
+      "class_id": "class-11",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-11-03",
+      "class_id": "class-11",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-11-04",
+      "class_id": "class-11",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-11-05",
+      "class_id": "class-11",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-11-06",
+      "class_id": "class-11",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-11-07",
+      "class_id": "class-11",
+      "practice": "independent"
+    },
+    {
+      "learner": "class-11-08",
+      "class_id": "class-11",
+      "practice": "guided"
+    },
+    {
+      "learner": "class-11-09",
+      "class_id": "class-11",
+      "practice": "independent"
+    }
+  ],
+  "outcomes": [
+    {
+      "learner": "class-00-00",
+      "result": 5.7162,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-01",
+      "result": 4.2499,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-02",
+      "result": 10.0269,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-03",
+      "result": 4.1516,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-04",
+      "result": 7.8074,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-05",
+      "result": 5.3581,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-06",
+      "result": 6.1614,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-07",
+      "result": 5.0291,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-08",
+      "result": 6.8567,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-00-09",
+      "result": 4.2343,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-00",
+      "result": 6.0179,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-01",
+      "result": 2.1589,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-02",
+      "result": 7.8635,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-03",
+      "result": 5.6794,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-04",
+      "result": 6.2271,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-05",
+      "result": 4.4499,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-06",
+      "result": 5.9988,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-07",
+      "result": 3.5332,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-08",
+      "result": 6.7996,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-01-09",
+      "result": 6.4727,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-00",
+      "result": 9.718,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-01",
+      "result": 9.1657,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-02",
+      "result": 9.3357,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-03",
+      "result": 7.2658,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-04",
+      "result": 10.7747,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-05",
+      "result": 5.2428,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-06",
+      "result": 10.6923,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-07",
+      "result": 5.7589,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-08",
+      "result": 9.8665,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-02-09",
+      "result": 6.0723,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-00",
+      "result": 3.1996,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-01",
+      "result": 0.5462,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-02",
+      "result": 2.0629,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-03",
+      "result": 2.0703,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-04",
+      "result": 2.6672,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-05",
+      "result": 1.317,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-06",
+      "result": 1.3765,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-07",
+      "result": 1.5649,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-08",
+      "result": 2.4769,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-03-09",
+      "result": 0.5534,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-00",
+      "result": 8.1408,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-01",
+      "result": 3.3651,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-02",
+      "result": 10.6995,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-03",
+      "result": 5.5764,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-04",
+      "result": 8.3078,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-05",
+      "result": 6.0387,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-06",
+      "result": 9.7374,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-07",
+      "result": 4.27,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-08",
+      "result": 8.9524,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-04-09",
+      "result": 5.0576,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-00",
+      "result": 3.5093,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-01",
+      "result": 0.7158,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-02",
+      "result": 3.6672,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-03",
+      "result": 2.0405,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-04",
+      "result": 2.876,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-05",
+      "result": 1.5591,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-06",
+      "result": 3.625,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-07",
+      "result": 3.7021,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-08",
+      "result": 2.8699,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-05-09",
+      "result": 1.5799,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-00",
+      "result": 12.3423,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-01",
+      "result": 9.0168,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-02",
+      "result": 10.7298,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-03",
+      "result": 8.9291,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-04",
+      "result": 12.0649,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-05",
+      "result": 7.1034,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-06",
+      "result": 10.6563,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-07",
+      "result": 9.4528,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-08",
+      "result": 11.5883,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-06-09",
+      "result": 7.6437,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-00",
+      "result": 5.2368,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-01",
+      "result": 2.9523,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-02",
+      "result": 4.5401,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-03",
+      "result": 4.9431,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-04",
+      "result": 4.929,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-05",
+      "result": 2.2806,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-06",
+      "result": 3.8229,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-07",
+      "result": 3.6612,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-08",
+      "result": 5.7844,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-07-09",
+      "result": 3.3432,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-00",
+      "result": 12.4953,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-01",
+      "result": 8.0521,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-02",
+      "result": 14.3845,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-03",
+      "result": 8.1357,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-04",
+      "result": 11.493,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-05",
+      "result": 6.7174,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-06",
+      "result": 12.1656,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-07",
+      "result": 9.2739,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-08",
+      "result": 10.2856,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-08-09",
+      "result": 8.6065,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-00",
+      "result": 4.3678,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-01",
+      "result": 3.8074,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-02",
+      "result": 5.0804,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-03",
+      "result": 4.8442,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-04",
+      "result": 3.7293,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-05",
+      "result": 3.1021,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-06",
+      "result": 4.0162,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-07",
+      "result": 2.8976,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-08",
+      "result": 5.9013,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-09-09",
+      "result": 4.6588,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-00",
+      "result": 12.9662,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-01",
+      "result": 5.6745,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-02",
+      "result": 8.9175,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-03",
+      "result": 5.0912,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-04",
+      "result": 11.0087,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-05",
+      "result": 6.3888,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-06",
+      "result": 9.1527,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-07",
+      "result": 5.3872,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-08",
+      "result": 10.6147,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-10-09",
+      "result": 6.0921,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-00",
+      "result": 6.3018,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-01",
+      "result": 5.5554,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-02",
+      "result": 5.3546,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-03",
+      "result": 6.0327,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-04",
+      "result": 7.5867,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-05",
+      "result": 6.0128,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-06",
+      "result": 5.0208,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-07",
+      "result": 5.3327,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-08",
+      "result": 5.7117,
+      "observed_at": "2026-10-31"
+    },
+    {
+      "learner": "class-11-09",
+      "result": 6.3832,
+      "observed_at": "2026-10-31"
+    }
+  ],
+  "allocation_plan": {
+    "lecture_unit": "class_id",
+    "practice_unit": "learner",
+    "block": "campus",
+    "lecture_probability": 0.5,
+    "practice_probability": 0.5
+  },
+  "project_title": "混合随机化层级下课程组件的交互作用与可估对比"
+}
